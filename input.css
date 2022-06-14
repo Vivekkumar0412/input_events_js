@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+    letter-spacing: 10px;
+    font-weight: bolder;
+}.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}#opt{
+    margin-top: 40px;
+}#inp{
+    margin: 9px 20px;
+}
